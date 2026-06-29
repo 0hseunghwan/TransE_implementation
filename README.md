@@ -17,9 +17,8 @@
 ## 실행 방법
 
 ### Colab에서 바로 실행
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/사용자명/저장소명/blob/main/TransE_from_scratch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/0hSeunghwan/TransE_implementation/blob/main/TransE.ipynb)
 
-(위 사용자명/저장소명은 본인 GitHub 계정/저장소 이름으로 교체)
 
 ### 로컬에서 실행
 ```bash
