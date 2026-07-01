@@ -40,7 +40,3 @@ jupyter notebook TransE.ipynb
 
 Bordes, A., Usunier, N., Garcia-Duran, A., Weston, J., & Yakhnenko, O. (2013).
 Translating Embeddings for Modeling Multi-relational Data. *NeurIPS*.
-
-## License
-
-MIT
