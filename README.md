@@ -12,7 +12,7 @@
 ## 데이터셋
 
 [FB15k-237](https://www.microsoft.com/en-us/download/details.aspx?id=52312) — Freebase 기반 표준 KGE 벤치마크.
-원본 FB15k에서 head-tail을 뒤집은 역방향 관계(`!/people/person/nationality` 류)를 제거한 정제 버전 (논문에서의 동일한 데이터 전처리 과정)
+원본 FB15k에서 head-tail을 뒤집은 역방향 관계(`!/people/person/nationality` 류)를 제거한 버전 (논문에서의 동일한 데이터 전처리 과정)
 
 ## 실행 방법
 
