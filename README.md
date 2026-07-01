@@ -41,9 +41,6 @@ jupyter notebook TransE.ipynb
 Bordes, A., Usunier, N., Garcia-Duran, A., Weston, J., & Yakhnenko, O. (2013).
 Translating Embeddings for Modeling Multi-relational Data. *NeurIPS*.
 
-Toutanova, K., & Chen, D. (2015). Observed versus Latent Features for Knowledge Base
-and Text Inference. *CVSC Workshop*. (FB15k-237 데이터셋 출처)
-
 ## License
 
 MIT
